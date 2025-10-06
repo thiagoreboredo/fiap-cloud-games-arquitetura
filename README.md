@@ -27,7 +27,7 @@ O objetivo desta fase foi refatorar a aplicação monolítica original (desenvol
 
 O diagrama abaixo ilustra a visão macro de todos os componentes do sistema e como eles se interconectam, desde o ponto de entrada único no API Gateway até os bancos de dados e serviços de backend.
 
-![Diagrama de Arquitetura](./DiagramaDeArquitetura.jpg)
+![Diagrama de Arquitetura](./DiagramaDeArquitetura.png)
 
 ---
 
